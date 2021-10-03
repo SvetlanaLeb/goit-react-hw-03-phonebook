@@ -1,0 +1,24 @@
+.list {
+    margin-top: 20px;
+    width: 400px;
+}
+
+.listItem {
+    display: flex;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.name {
+    margin: 0;
+}
+
+.number {
+    margin-left: 30px;
+}
+
+.button {
+    margin-left: auto;
+    padding: 5px;
+}

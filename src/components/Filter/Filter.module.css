@@ -1,0 +1,13 @@
+.label {
+    font-size: 23px;
+    font-weight: 500;
+    color: rgb(77, 77, 77);
+}
+
+.input {
+    display: block;
+    margin: 10px;
+    margin-left: 0;
+    width: 400px;
+    font-size: 18px;
+}
